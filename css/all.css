@@ -11,7 +11,9 @@ body {
   font: 1.3rem/1.61538 "Montserrat", sans-serif; }
 
 p {
-  font-family: "Source Sans Pro", sans-serif; }
+  font-family: "Source Sans Pro", sans-serif; 
+  
+}
 
 .btn, a {
   -webkit-transition: color linear .4s, background-color linear .4s, border-color linear .4s;
